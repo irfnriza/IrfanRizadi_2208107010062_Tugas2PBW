@@ -6,3 +6,7 @@
    "selection_sort_output.txt", dan "insertion_sort_output.txt"di direktori yang sama dengan file program
 
 *note : program membutuhkan waktu yang sangat lama untuk menyelesaikan sorting terutama bubble sort
+
+
+link cara memnjalankan program:
+https://drive.google.com/file/d/16TW9_Q3FfAbZQPf3QVh_Ny6MDpflNCiN/view?usp=sharing
