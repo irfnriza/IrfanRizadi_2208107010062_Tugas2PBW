@@ -4,3 +4,5 @@
       ./sorting
 3. Setelah program selesai dieksekusi, Anda akan menemukan file outputdari setiap jenis pengurutan: "bubble_sort_output.txt",
    "selection_sort_output.txt", dan "insertion_sort_output.txt"di direktori yang sama dengan file program
+
+*note : program membutuhkan waktu yang sangat lama untuk menyelesaikan sorting terutama bubnle sort
